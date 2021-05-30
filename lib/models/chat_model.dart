@@ -1,0 +1,311 @@
+class ChatModel{
+  final String name;
+  final String message;
+  final String time;
+  final String avatar;
+  ChatModel({this.name,this.message,this.time,this.avatar});
+
+  
+}
+List<ChatModel>chatData=[
+  ChatModel(
+    name: "Atharv",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Yasin",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Ganesh",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Tushar",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Sahil",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Bilal",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Amar",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Rohit",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Prashant",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Arbaj",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Atharv",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Yasin",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Ganesh",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Tushar",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Sahil",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Bilal",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Amar",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Rohit",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Prashant",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Arbaj",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Atharv",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Yasin",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Ganesh",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Tushar",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Sahil",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Bilal",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Amar",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Rohit",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Prashant",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Arbaj",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Atharv",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Yasin",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Ganesh",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Tushar",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Sahil",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Bilal",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Amar",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Rohit",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Prashant",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Arbaj",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Atharv",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Yasin",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Ganesh",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Tushar",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Sahil",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+  ChatModel(
+    name: "Bilal",
+    message: "Exam ch kay zal",
+    time: "10:20",
+    avatar: "images/img1.jpg",
+  ),
+  ChatModel(
+    name: "Amar",
+    message: "hey ",
+    time: "7:20",
+    avatar: "images/img2.jpg",
+  ),
+  ChatModel(
+    name: "Rohit",
+    message: "good moring ",
+    time: "5:20",
+    avatar: "images/img3.jpg",
+  ),
+  ChatModel(
+    name: "Prashant",
+    message: "GN ",
+    time: "5:20",
+    avatar: "images/img4.jpg",
+  ),
+  ChatModel(
+    name: "Arbaj",
+    message: "hello ",
+    time: "5:20",
+    avatar: "images/img5.jpg",
+  ),
+];
